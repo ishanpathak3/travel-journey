@@ -11,8 +11,9 @@ const arrayData = [
         dateFrom: "12 Jan, 2021",
         dateTo: "24 Jan, 2021",
         image: firstImg,
-        body: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists."
+        body: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
     },
+
     {
         id: 2,
         title: "Sydney Opera House",
@@ -32,9 +33,7 @@ const arrayData = [
         dateTo: "18 Nov, 2021",
         image: thirdImg,
         body: "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality."
-    }
-
-
+    },
 ]
 
 
